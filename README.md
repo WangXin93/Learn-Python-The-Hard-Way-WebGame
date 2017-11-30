@@ -1,6 +1,6 @@
 ## How to use
 Make sure you in the folder has file like this:
-
+```
 gothonweb/
 ├── bin
 ├── docs
@@ -10,9 +10,9 @@ gothonweb/
 ├── static
 ├── templates
 └── tests
-
+```
 Then input this in your shell:
-```python
+```bash
 export PYTHONPATH=$PYTHONPATH:.
 python /bin/gameapp.py
 ```
